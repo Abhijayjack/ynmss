@@ -69,7 +69,7 @@
     },
     "START_IMG_URL": {
       "description": "Telegraph Image Link for the Private Start Message",
-      "value": "https://te.legra.ph/file/f9f2dec29f684d6d0ae8c.jpg",
+      "value": "https://telegra.ph//file/abb0bd8e33ccea0799b8d.jpg",
       "required": true
     },
     "STRING_SESSION1": {
@@ -124,7 +124,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/Abhijayjack/onmuz2",
+      "value": "https://github.com/Abhijayjack/spmz",
       "required": true
     },
     "UPSTREAM_BRANCH": {
